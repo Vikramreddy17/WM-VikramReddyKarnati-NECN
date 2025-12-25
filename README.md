@@ -1,6 +1,6 @@
 # Smart Waste Bin Monitoring & Collection Optimization System
 
-**Applicant:** Vikram Reddy Karnati  
+**Applicant:** Guru Sai Vikram Reddy Karnati  
 **College:** Narayana Engineering College (NECN)
 
 ---
